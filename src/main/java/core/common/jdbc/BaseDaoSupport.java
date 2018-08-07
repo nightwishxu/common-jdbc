@@ -1,4 +1,4 @@
-package com.gupaoedu.vip.orm.framework;
+package core.common.jdbc;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

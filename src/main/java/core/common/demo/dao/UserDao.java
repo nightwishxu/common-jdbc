@@ -1,7 +1,7 @@
 package core.common.demo.dao;
 
-import com.gupaoedu.vip.orm.framework.BaseDaoSupport;
 import core.common.demo.model.User;
+import core.common.jdbc.BaseDaoSupport;
 import org.springframework.stereotype.Repository;
 
 import javax.annotation.Resource;

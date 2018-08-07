@@ -7,8 +7,8 @@ import java.util.List;
 import javax.annotation.Resource;
 import javax.sql.DataSource;
 
-import com.gupaoedu.vip.orm.framework.BaseDaoSupport;
 import core.common.demo.model.Member;
+import core.common.jdbc.BaseDaoSupport;
 import core.common.jdbc.QueryRule;
 import core.common.jdbc.datasource.DynamicDataSource;
 import org.springframework.jdbc.core.JdbcTemplate;
